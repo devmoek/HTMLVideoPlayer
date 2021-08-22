@@ -1,1 +1,1 @@
-Hello I'm a html video player
+One of the #javascript30 challenge project
